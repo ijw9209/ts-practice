@@ -22,4 +22,4 @@ const expert: Developer = {
 }
 
 //Person과 Developer 형태가 유사하다면 interface를 선언할때 다른 interface를 extends
-//키워드를 사용해 상속 받을수 잇음
+//키워드를 사용해 상속 받을수 잇음 
